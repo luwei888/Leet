@@ -5,4 +5,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="1.1-50\" />
+    <Folder Include="2.51-100\" />
+    <Folder Include="4.151-200\" />
+  </ItemGroup>
+
 </Project>
